@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**adrissonGalvao/adrissonGalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hi! :wave:
+<div style="display: inline_block"><br>
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vivi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
+  <img align="center" alt="zio" height="30" width="40" src="https://zio.dev/img/navbar_brand.png">
+ 
+</div>
